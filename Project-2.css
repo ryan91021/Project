@@ -1882,13 +1882,12 @@
 }
 
 .u-section-9 .u-list-1 {
-  min-height: 199px;
   margin: 30px 10px 0;
 }
 
 .u-section-9 .u-repeater-1 {
   grid-template-columns: repeat(2, calc(50% - 5px));
-  min-height: 250px;
+  min-height: 199px;
   grid-auto-columns: calc(50% - 5px);
   grid-gap: 10px;
 }
@@ -1985,13 +1984,8 @@
   }
 
   .u-section-9 .u-list-1 {
-    min-height: 158px;
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-9 .u-repeater-1 {
-    min-height: 209px;
   }
 }
 
