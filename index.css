@@ -1,18 +1,24 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 771px;
+  min-height: 853px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 14px;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 711px;
+  min-height: 809px;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px;
+  padding: 0 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 370px;
+  height: 494px;
+  margin: 133px auto 0 105px;
 }
 
 .u-section-1 .u-shape-1 {
@@ -23,15 +29,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 0.3;
-  margin: 0 auto 0 0;
-}
-
-.u-section-1 .u-image-1 {
-  width: 556px;
-  height: 556px;
-  background-image: url("images/qewee.jpg");
-  background-position: 50% 50%;
-  margin: -130px auto 0 0;
+  margin: -579px auto 0 12px;
 }
 
 .u-section-1 .u-shape-2 {
@@ -42,7 +40,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 0.3;
-  margin: -421px 0 0 auto;
+  margin: 16px 84px 0 auto;
 }
 
 .u-section-1 .u-shape-3 {
@@ -53,7 +51,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 182px 30px 53px auto;
+  margin: 225px 42px 0 auto;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -72,7 +70,7 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 3rem;
-  margin: 128px 0 0 13px;
+  margin: 128px 0 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -92,28 +90,15 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 646px;
+    min-height: 711px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 586px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 504px;
-    height: 504px;
-  }
-
-  .u-section-1 .u-shape-2 {
-    margin-top: -369px;
+    min-height: 667px;
   }
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 586px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-left: 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -124,39 +109,19 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 644px;
+    min-height: 555px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 584px;
+    min-height: 511px;
   }
 
   .u-section-1 .u-container-layout-1 {
     padding-top: 14px;
   }
 
-  .u-section-1 .u-shape-1 {
-    width: 176px;
-    height: 176px;
-    margin-top: 21px;
-  }
-
   .u-section-1 .u-image-1 {
-    width: 347px;
-    height: 347px;
-    margin-top: -106px;
-  }
-
-  .u-section-1 .u-shape-2 {
-    margin-top: -251px;
-  }
-
-  .u-section-1 .u-shape-3 {
-    width: 156px;
-    height: 53px;
-    margin-top: 169px;
-    margin-right: 26px;
-    margin-bottom: 0;
+    margin-left: 2px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -175,30 +140,16 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 721px;
+    min-height: 783px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 653px;
+    min-height: 639px;
   }
 
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 490px;
-    height: 490px;
-    margin-top: -107px;
-  }
-
-  .u-section-1 .u-shape-2 {
-    margin-top: -413px;
-  }
-
-  .u-section-1 .u-shape-3 {
-    margin-top: 240px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -212,36 +163,21 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 513px;
+    min-height: 546px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 447px;
-  }
-
-  .u-section-1 .u-shape-1 {
-    width: 166px;
-    height: 166px;
+    min-height: 402px;
   }
 
   .u-section-1 .u-image-1 {
     width: 320px;
-    height: 320px;
-    margin-top: -94px;
+    height: 427px;
+    margin-left: 0;
   }
 
-  .u-section-1 .u-shape-2 {
-    width: 83px;
-    height: 83px;
-    margin-top: -320px;
-    margin-right: 11px;
-  }
-
-  .u-section-1 .u-shape-3 {
-    width: 154px;
-    height: 48px;
-    margin-top: 169px;
-    margin-right: 0;
+  .u-section-1 .u-shape-1 {
+    margin-top: -512px;
   }
 
   .u-section-1 .u-text-1 {
